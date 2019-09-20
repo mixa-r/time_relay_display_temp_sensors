@@ -1,1 +1,1 @@
-# time_relay_l-d_temp_sensors
+# time_relay_lсd_temp_sensors
