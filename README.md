@@ -36,5 +36,5 @@
 - Библиотеки EEPROM, Wire и pgmspace используемые в скетче, входят в стандартный набор Arduino IDE.
 - iarduino_DHT.h для работы с датчиками температуры DTH11/22
 - Для датчиков ds18b20:
-    OneWire.h
-    DallasTemperature.h
+    OneWire.h;
+    DallasTemperature.h;
