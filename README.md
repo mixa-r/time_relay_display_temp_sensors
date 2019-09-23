@@ -38,3 +38,6 @@
 - Для датчиков ds18b20:
     OneWire.h;
     DallasTemperature.h;
+
+![Rele_time1](https://user-images.githubusercontent.com/53909744/65403366-f933ab00-dddb-11e9-86f3-c06854cff5cc.jpg)
+![Rele_time2](https://user-images.githubusercontent.com/53909744/65403343-d86b5580-dddb-11e9-914a-eb643e125bca.jpg)
