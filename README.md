@@ -39,6 +39,5 @@
     OneWire.h;
     DallasTemperature.h;
 
-<img src="https://user-images.githubusercontent.com/53909744/65403366-f933ab00-dddb-11e9-86f3-c06854cff5cc.jpg" width="48">
-![Rele_time1](https://user-images.githubusercontent.com/53909744/65403366-f933ab00-dddb-11e9-86f3-c06854cff5cc.jpg)
-![Rele_time2](https://user-images.githubusercontent.com/53909744/65403343-d86b5580-dddb-11e9-914a-eb643e125bca.jpg)
+<img src="https://user-images.githubusercontent.com/53909744/65403366-f933ab00-dddb-11e9-86f3-c06854cff5cc.jpg" width="380">
+<img src="https://user-images.githubusercontent.com/53909744/65403343-d86b5580-dddb-11e9-914a-eb643e125bca.jpg" width="380">
